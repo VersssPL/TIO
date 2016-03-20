@@ -1,0 +1,6 @@
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Space2\bin\Debug\Space2.exe.config
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Space2\bin\Debug\Space2.exe
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Space2\bin\Debug\Space2.pdb
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Space2\obj\Debug\Space2.csprojResolveAssemblyReference.cache
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Space2\obj\Debug\Space2.exe
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Space2\obj\Debug\Space2.pdb

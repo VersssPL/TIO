@@ -1,0 +1,6 @@
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Klient\bin\Debug\Klient.exe.config
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Klient\bin\Debug\Klient.exe
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Klient\bin\Debug\Klient.pdb
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Klient\obj\Debug\Klient.exe
+E:\Backup\backup\Studia\6 semestr\TIO\Space2\Klient\obj\Debug\Klient.pdb
