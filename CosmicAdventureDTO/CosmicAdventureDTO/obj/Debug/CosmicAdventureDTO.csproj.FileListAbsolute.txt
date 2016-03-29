@@ -1,0 +1,6 @@
+E:\Backup\backup\Studia\6 semestr\TIO\CosmicAdventureDTO\CosmicAdventureDTO\bin\Debug\CosmicAdventureDTO.exe.config
+E:\Backup\backup\Studia\6 semestr\TIO\CosmicAdventureDTO\CosmicAdventureDTO\bin\Debug\CosmicAdventureDTO.exe
+E:\Backup\backup\Studia\6 semestr\TIO\CosmicAdventureDTO\CosmicAdventureDTO\bin\Debug\CosmicAdventureDTO.pdb
+E:\Backup\backup\Studia\6 semestr\TIO\CosmicAdventureDTO\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.csprojResolveAssemblyReference.cache
+E:\Backup\backup\Studia\6 semestr\TIO\CosmicAdventureDTO\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.exe
+E:\Backup\backup\Studia\6 semestr\TIO\CosmicAdventureDTO\CosmicAdventureDTO\obj\Debug\CosmicAdventureDTO.pdb
