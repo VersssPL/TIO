@@ -1,0 +1,5 @@
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\BookLibraryDTO\bin\Debug\BookLibraryDTO.dll
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\BookLibraryDTO\bin\Debug\BookLibraryDTO.pdb
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\BookLibraryDTO\obj\Debug\BookLibraryDTO.csprojResolveAssemblyReference.cache
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\BookLibraryDTO\obj\Debug\BookLibraryDTO.dll
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\BookLibraryDTO\obj\Debug\BookLibraryDTO.pdb
