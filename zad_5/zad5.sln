@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryBookAuthor", "BookLibraryDTO\LibraryBookAuthor.csproj", "{DB5F0F4C-8155-43A1-A34B-1EE9E721292D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryBookAuthor", "LibraryBookAuthor\LibraryBookAuthor.csproj", "{DB5F0F4C-8155-43A1-A34B-1EE9E721292D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorsDBActions", "AuthorsDBActions\AuthorsDBActions.csproj", "{DDD0C921-6D4F-467E-A54E-3CC2BEDE5817}"
 EndProject
