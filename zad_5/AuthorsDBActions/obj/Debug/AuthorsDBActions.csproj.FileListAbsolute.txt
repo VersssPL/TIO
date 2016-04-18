@@ -1,0 +1,9 @@
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\AuthorsDBActions\bin\Debug\AuthorsDBActions.dll
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\AuthorsDBActions\bin\Debug\AuthorsDBActions.pdb
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\AuthorsDBActions\bin\Debug\BookLibraryDTO.dll
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\AuthorsDBActions\bin\Debug\LiteDB.dll
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\AuthorsDBActions\bin\Debug\BookLibraryDTO.pdb
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\AuthorsDBActions\bin\Debug\LiteDB.xml
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\AuthorsDBActions\obj\Debug\AuthorsDBActions.csprojResolveAssemblyReference.cache
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\AuthorsDBActions\obj\Debug\AuthorsDBActions.dll
+E:\Backup\backup\Studia\6 semestr\TIO\ex5\AuthorsDBActions\obj\Debug\AuthorsDBActions.pdb
