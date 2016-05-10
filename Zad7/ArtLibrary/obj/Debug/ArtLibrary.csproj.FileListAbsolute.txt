@@ -1,0 +1,5 @@
+E:\Backup\backup\Studia\6 semestr\TIO\Zad7\ArtLibrary\ArtLibrary\bin\Debug\ArtLibrary.dll
+E:\Backup\backup\Studia\6 semestr\TIO\Zad7\ArtLibrary\ArtLibrary\bin\Debug\ArtLibrary.pdb
+E:\Backup\backup\Studia\6 semestr\TIO\Zad7\ArtLibrary\ArtLibrary\obj\Debug\ArtLibrary.csprojResolveAssemblyReference.cache
+E:\Backup\backup\Studia\6 semestr\TIO\Zad7\ArtLibrary\ArtLibrary\obj\Debug\ArtLibrary.dll
+E:\Backup\backup\Studia\6 semestr\TIO\Zad7\ArtLibrary\ArtLibrary\obj\Debug\ArtLibrary.pdb
