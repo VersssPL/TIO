@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtLibrary", "ArtLibrary\ArtLibrary.csproj", "{7BA2E061-33D2-4581-B491-6DDF6C9FD08F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtDB", "ArtDB\ArtDB.csproj", "{D70ABA46-E871-4D9F-916C-AB733D903751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST", "REST\REST.csproj", "{074530BB-45FC-43BF-845D-C8940089EF10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BA2E061-33D2-4581-B491-6DDF6C9FD08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA2E061-33D2-4581-B491-6DDF6C9FD08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA2E061-33D2-4581-B491-6DDF6C9FD08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA2E061-33D2-4581-B491-6DDF6C9FD08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70ABA46-E871-4D9F-916C-AB733D903751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70ABA46-E871-4D9F-916C-AB733D903751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70ABA46-E871-4D9F-916C-AB733D903751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70ABA46-E871-4D9F-916C-AB733D903751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{074530BB-45FC-43BF-845D-C8940089EF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074530BB-45FC-43BF-845D-C8940089EF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{074530BB-45FC-43BF-845D-C8940089EF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{074530BB-45FC-43BF-845D-C8940089EF10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
